@@ -1,7 +1,7 @@
 # Supply_Chain_Risk_Analysis_THERESA
 
 The results, dataset, and notebook are shared on the GitHub
-The Rule-Based Regex Extraction is working very well but AI method is so heavy and I need help with it
+The Rule-Based Regex Extraction is working very well but AI method is not accurateand I need help with it
 
 
 Comparing Different Methods for Risk Score Analysis
